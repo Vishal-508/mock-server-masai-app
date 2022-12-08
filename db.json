@@ -11,5 +11,19 @@
       "cost": 1299,
       "borrowed": false
     }
+  ],
+  "user":[
+    {
+     "username":"Vishal@123",
+     "avatar_url":"https://i.pravatar.cc/150?img=3",
+     "full-name" :"vishal sharma",
+     "email": "vishal@gmail.com",
+     "password": "1234"
+    }
+  ],
+  "posts":[
+    {
+      
+    }
   ]
 }
