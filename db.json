@@ -21,6 +21,22 @@
      "password": "1234"
     }
   ],
+  "dogs":[
+    {
+      "id":1,
+      "name": "Tommy",
+      "age":2,
+      "place":"Visakhapatnam",
+      "gender":"Male"
+    },
+    {
+      "id":2,
+      "name": "Cherry",
+      "age":3,
+      "place":"Banglore",
+      "gender":"Female"
+    }
+  ],
   "posts":[
     {
       
